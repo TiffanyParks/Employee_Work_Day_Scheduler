@@ -25,3 +25,6 @@ THEN the saved events persist
 Dependencies
 Day.js library to work with date and time.
 HTML and CSS powered by jQuery dynamically update browser features.
+
+
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/126128634/235035464-b1387c0b-1236-4c89-ab4d-fd85cd6ecedd.png">
